@@ -2,7 +2,7 @@
 Project 05 for MSCH-C220
 
 # Mystery Maze
-Find the key. - 4/9/22
+Find the key - 4/9/22
 
 This maze consists of many viney pathways with multiple dead ends, to make it out of the maze you must collect the key and bring it to the exit while also avoiding any obsticles or enemys and trying not to get lost! 
 
