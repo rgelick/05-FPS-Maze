@@ -1,10 +1,10 @@
 # 05-FPS-Maze
 Project 05 for MSCH-C220
 
-# Project Name
-Mystery Maze - 4/9/22
+# Mystery Maze
+The only way out of the maze is to find they key and unlock the exit! - 4/9/22
 
-This maze consists of many viney pathways with multiple dead ends, to make it out of the maze you must collect the key and bring it to the exit while also avoiding any obsticles and trying not to get lost! 
+This maze consists of many viney pathways with multiple dead ends, to make it out of the maze you must collect the key and bring it to the exit while also avoiding any obsticles or enemys and trying not to get lost! 
 
 ## Implementation
 Large or elaborate levels,
